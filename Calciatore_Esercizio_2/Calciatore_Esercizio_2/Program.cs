@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Ripetere l’esercizio 1 leggendo i dati in input dei seguenti attributi: calciatore, ruolo, squadra e golsegnati.
+
+using System;
 
 namespace Calciatore_Esercizio_2
 {

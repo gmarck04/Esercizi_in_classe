@@ -12,3 +12,17 @@ G:\Il mio Drive\Portatile\Github\Calciatore\Calciatore_Esercizio_2\Calciatore_Es
 G:\Il mio Drive\Portatile\Github\Calciatore\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.dll
 G:\Il mio Drive\Portatile\Github\Calciatore\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.pdb
 G:\Il mio Drive\Portatile\Github\Calciatore\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.genruntimeconfig.cache
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.exe
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.deps.json
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.runtimeconfig.json
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.runtimeconfig.dev.json
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.dll
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\bin\Debug\netcoreapp3.1\Calciatore_Esercizio_2.pdb
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.csproj.AssemblyReference.cache
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.AssemblyInfoInputs.cache
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.AssemblyInfo.cs
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.dll
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.pdb
+G:\Il mio Drive\Portatile\Github\Calciatore-eta\Calciatore_Esercizio_2\Calciatore_Esercizio_2\obj\Debug\netcoreapp3.1\Calciatore_Esercizio_2.genruntimeconfig.cache
