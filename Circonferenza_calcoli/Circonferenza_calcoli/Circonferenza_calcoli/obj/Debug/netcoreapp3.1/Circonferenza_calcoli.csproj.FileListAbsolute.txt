@@ -1,0 +1,14 @@
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.exe
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.deps.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.runtimeconfig.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.runtimeconfig.dev.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\bin\Debug\netcoreapp3.1\Circonferenza_calcoli.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.csproj.AssemblyReference.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.GeneratedMSBuildEditorConfig.editorconfig
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.AssemblyInfoInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.AssemblyInfo.cs
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Circonferenza_calcoli\Circonferenza_calcoli\Circonferenza_calcoli\obj\Debug\netcoreapp3.1\Circonferenza_calcoli.genruntimeconfig.cache
