@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Temperatura_di_una_citta/1.0.0": {
+        "runtime": {
+          "Temperatura_di_una_citta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperatura_di_una_citta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

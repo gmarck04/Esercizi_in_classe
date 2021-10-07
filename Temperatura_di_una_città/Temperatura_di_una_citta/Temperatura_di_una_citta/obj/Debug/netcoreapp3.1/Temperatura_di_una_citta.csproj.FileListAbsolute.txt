@@ -1,0 +1,14 @@
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.exe
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.deps.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.runtimeconfig.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.runtimeconfig.dev.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\bin\Debug\netcoreapp3.1\Temperatura_di_una_citta.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.csproj.AssemblyReference.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.GeneratedMSBuildEditorConfig.editorconfig
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.AssemblyInfoInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.AssemblyInfo.cs
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Temperatura_di_una_città\Temperatura_di_una_citta\Temperatura_di_una_citta\obj\Debug\netcoreapp3.1\Temperatura_di_una_citta.genruntimeconfig.cache
