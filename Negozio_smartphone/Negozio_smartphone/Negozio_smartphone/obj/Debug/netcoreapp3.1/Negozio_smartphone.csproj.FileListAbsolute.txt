@@ -1,0 +1,14 @@
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.exe
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.deps.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.runtimeconfig.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.runtimeconfig.dev.json
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\bin\Debug\netcoreapp3.1\Negozio_smartphone.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.csproj.AssemblyReference.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.GeneratedMSBuildEditorConfig.editorconfig
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.AssemblyInfoInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.AssemblyInfo.cs
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.dll
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.pdb
+G:\Il mio Drive\Portatile\Github\Esercizi_in_classe\Negozio_smartphone\Negozio_smartphone\Negozio_smartphone\obj\Debug\netcoreapp3.1\Negozio_smartphone.genruntimeconfig.cache
