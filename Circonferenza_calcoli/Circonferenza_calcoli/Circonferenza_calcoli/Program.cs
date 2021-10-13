@@ -1,4 +1,6 @@
-﻿/*Tramite la programmazione ad oggetti scrivere un programma in C#, che dopo aver letto in input il raggio di una 
+﻿/* Nickname: @gmarck04
+ * Data: 01/10/2021
+ * Tramite la programmazione ad oggetti scrivere un programma in C#, che dopo aver letto in input il raggio di una 
  *circonferenza, calcoli e visualizzi in output la misura del diametro (2*raggio), della circonferenza (2*raggio*pi greco)
  *e la sua area (r^2*pi greco). Utilizzare la funzione Math.PI .*/
 
@@ -6,36 +8,36 @@ using System;
 
 namespace Circonferenza_calcoli
 {
-    class Circonferenza
+    class Circonferenza //Restituisce il diametro, la circonferenza e l'area.
     {
+        //Attributi
         double raggio;
         double diametro { get; set; }
         double circonferenza { get; set; }
         double area { get; set; }
-
+        //Costruttore
         public Circonferenza(double raggio)
         {
             this.raggio = raggio;
             calcola();
         }
-        public void calcola()
+        //Metodi
+        public void calcola() //esegue i calcoli del diametro, della circonferenza e dell'area.
         {
             diametro = raggio * 2;
             circonferenza = 2 * raggio * Math.PI;
             area = raggio * raggio * Math.PI;
         }
 
-        public void Mostra_misure()
+        public string ToString() //Restituisce la frase contenente il diametro, la circonferenza e l'area.
         {
-            Console.WriteLine("Il diametro vale: {0}", diametro);
-            Console.WriteLine("la circonferenza vale: {0}", circonferenza);
-            Console.WriteLine("l'area vale: {0}", area);
+            return $"Il diametro vale: {diametro} \nLa circonferenza vale: {circonferenza} \nL'area vale: {area}";
         }        
     }
 
     class Program
     {
-        public static double raggio_valore()
+        public static double raggio_valore() //Richiede il valore del raggio.
         {
             double raggio;
             Console.WriteLine("Inserisci il raggio:");
@@ -47,10 +49,10 @@ namespace Circonferenza_calcoli
             }
             return raggio;
         }
-        static void Main(string[] args)
+        static void Main(string[] args) //Invia il valore del raggio e restituisce il Metodo ToString della classe Circonferenza.
         {
-            Circonferenza c = new Circonferenza(raggio_valore());
-            c.Mostra_misure();
+            Circonferenza c = new Circonferenza(raggio_valore()); //Invio al costruttore della variabile restituita dalla funzione raggio_valore.
+            Console.WriteLine(c.ToString()); //Stampa il valore restituito del Metodo ToString della classe Circonferenza.
         }
     }
 }
