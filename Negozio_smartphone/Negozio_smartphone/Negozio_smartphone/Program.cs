@@ -55,16 +55,13 @@ namespace Negozio_smartphone
                 c.Inserisci_nome(Console.ReadLine()); //Invio nome telefono.
 
                 Console.WriteLine("Inserisci prezzo telefono");
-                c.Inserisci_prezzo(float.Parse(Console.ReadLine()));
+                c.Inserisci_prezzo(float.Parse(Console.ReadLine())); //Invio prezzo telefono.
                 Console.WriteLine("Vuoi continuare? Inserisci 1 per stoppare e 0 per continuare");
-                valore = Int32.Parse(Console.ReadLine()); //Invio prezzo telefono.
+                valore = Int32.Parse(Console.ReadLine()); 
                 while (valore != 0 && valore != 1)
                 {
-                    Console.WriteLine("Inserisci nome telefono");
-                    c.Inserisci_nome(Console.ReadLine()); //Invio nome telefono.
-
-                    Console.WriteLine("Inserisci prezzo telefono");
-                    c.Inserisci_prezzo(float.Parse(Console.ReadLine())); //Invio prezzo telefono.
+                    Console.WriteLine("Errato: se vuoi continuare? Inserisci 1 per stoppare e 0 per continuare");
+                    valore = Int32.Parse(Console.ReadLine());
                 }
             } while (valore == 0);
 
